@@ -20,12 +20,17 @@
 - [MAMP: pour vous faire un petit serveur PHP, MySQL et Apache tout simple en local sur votre machine (mac ou windows)](https://www.mamp.info/en/)
 - [Alamofire: le framework d'accès aux APIs par excellence, par-dessus NSURLSessions](https://github.com/Alamofire/Alamofire)
 - [CocoaPods: pour gérer vos dépendances sur des librairies tierces](http://www.cocoapods.org)
+- [Lorempixel: pour générer des images placeholders](http://lorempixel.com/)
+- [Pour lire des QRCodes](https://github.com/yannickl/QRCodeReader.swift)
 
 
 ## APIs publiques
 
 - [une liste avec plein de petites perles dedans](https://github.com/toddmotto/public-apis)
 - [ProgrammableWeb: un énorme annuaire d'APIs](http://www.programmableweb.com/apis/directory)
+- [Songkick: pour charger des listes de concerts](http://www.songkick.com/developer)
+- [Discogs: pour des disques et de la musique](https://www.discogs.com/developers/)
+- [Pour des films](http://www.omdbapi.com/)
 
 ## Bases de données
 
