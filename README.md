@@ -14,6 +14,7 @@
 - [Pour imprimer des modèles d'écran à dessiner sur papier](https://www.interfacesketch.com/)
 - [Sketch: l'outil de design d'app par excellence, mais alors plus pour faire des design aboutis](https://www.sketchapp.com/)
 - [Plein de modèles Sketch et Photoshop pour les apps et les icônes](https://applypixels.com/)
+- [Fichier Photoshop pour dessiner des interfaces](http://www.teehanlax.com/tools/iphone/)
 
 ## Ressources de développement
 
