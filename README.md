@@ -18,6 +18,7 @@
 ## Ressources de développement
 
 - [MAMP: pour vous faire un petit serveur PHP, MySQL et Apache tout simple en local sur votre machine (mac ou windows)](https://www.mamp.info/en/)
+- [OSX Server: Pour héberger un site en local](https://itunes.apple.com/be/app/os-x-server/id883878097?l=fr&mt=12)
 - [Alamofire: le framework d'accès aux APIs par excellence, par-dessus NSURLSessions](https://github.com/Alamofire/Alamofire)
 - [CocoaPods: pour gérer vos dépendances sur des librairies tierces](http://www.cocoapods.org)
 - [Lorempixel: pour générer des images placeholders](http://lorempixel.com/)
