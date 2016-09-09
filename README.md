@@ -22,3 +22,25 @@
 - [CocoaPods: pour gérer vos dépendances sur des librairies tierces](http://www.cocoapods.org)
 
 
+## APIs publiques
+
+- [une liste avec plein de petites perles dedans](https://github.com/toddmotto/public-apis)
+- [ProgrammableWeb: un énorme annuaire d'APIs](http://www.programmableweb.com/apis/directory)
+
+## Bases de données
+
+- [Realm: une alternative NoSQL à Core Data](https://realm.io/)
+- [Firebase: une base de données synchronisée et plein de choses autour, maintenue par Google](http://firebase.google.com)
+
+## SDKs
+
+- [Talky: pour intégrer des fonctionnalités de chat, de vidéo, de voix et de partage d'écran dans vos apps](https://talky.io/)
+- [quickblox: un autre SDK qui fait presque pareil que Talky, donc pour intégrer du chat dans son app](https://quickblox.com/)
+
+
+## Articles intéressants
+
+- [Ray Wenderlich: LA référence](https://www.raywenderlich.com/)
+- [Objc.io: pas que de l'Objective-C, mais que du très bon contenu](https://www.objc.io/)
+- [NSHipster: un superbe blog par les gens qui font notamment Alamofire](http://nshipster.com/)
+- [iOS Dev Tools: une liste comme celle-ci mais plus étoffée](https://iosdev.tools/)
