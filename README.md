@@ -15,7 +15,7 @@
 - [Sketch: l'outil de design d'app par excellence, mais alors plus pour faire des design aboutis](https://www.sketchapp.com/)
 - [Plein de modèles Sketch et Photoshop pour les apps et les icônes](https://applypixels.com/)
 
-## Resources de développement
+## Ressources de développement
 
 - [MAMP: pour vous faire un petit serveur PHP, MySQL et Apache tout simple en local sur votre machine (mac ou windows)](https://www.mamp.info/en/)
 - [Alamofire: le framework d'accès aux APIs par excellence, par-dessus NSURLSessions](https://github.com/Alamofire/Alamofire)
