@@ -1,6 +1,6 @@
 # ios-dev-resources
 
-A few useful resources for iOS developers
+## Ressources de design
 
 - [Estimation du budget pour une app](http://howmuchtomakeanapp.com/)
 - [Design patterns d'expérience utilisateur sur mobile](http://pttrns.com/)
@@ -14,3 +14,11 @@ A few useful resources for iOS developers
 - [Pour imprimer des modèles d'écran à dessiner sur papier](https://www.interfacesketch.com/)
 - [Sketch: l'outil de design d'app par excellence, mais alors plus pour faire des design aboutis](https://www.sketchapp.com/)
 - [Plein de modèles Sketch et Photoshop pour les apps et les icônes](https://applypixels.com/)
+
+## Resources de développement
+
+- [MAMP: pour vous faire un petit serveur PHP, MySQL et Apache tout simple en local sur votre machine (mac ou windows)](https://www.mamp.info/en/)
+- [Alamofire: le framework d'accès aux APIs par excellence, par-dessus NSURLSessions](https://github.com/Alamofire/Alamofire)
+- [CocoaPods: pour gérer vos dépendances sur des librairies tierces](http://www.cocoapods.org)
+
+
