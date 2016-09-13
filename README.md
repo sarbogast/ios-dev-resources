@@ -51,3 +51,4 @@
 - [Objc.io: pas que de l'Objective-C, mais que du très bon contenu](https://www.objc.io/)
 - [NSHipster: un superbe blog par les gens qui font notamment Alamofire](http://nshipster.com/)
 - [iOS Dev Tools: une liste comme celle-ci mais plus étoffée](https://iosdev.tools/)
+- [Tutoriel très intéressant sur l'implémentation du UISearchController](https://www.raywenderlich.com/113772/uisearchcontroller-tutorial)
