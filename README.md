@@ -38,6 +38,8 @@
 
 - [Realm: une alternative NoSQL à Core Data](https://realm.io/)
 - [Firebase: une base de données synchronisée et plein de choses autour, maintenue par Google](http://firebase.google.com)
+- [Sequel Pro: un client pour les bases de données MySQL](https://www.sequelpro.com/)
+- [DB Browser for SQLite: un client pour les bases de données SQLite (Core Data, etc.)](http://sqlitebrowser.org/)
 
 ## SDKs
 
