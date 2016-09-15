@@ -35,6 +35,7 @@
 - [Discogs: pour des disques et de la musique](https://www.discogs.com/developers/)
 - [Pour des films](http://www.omdbapi.com/)
 - [Une gigantesque base de données d'APIs](https://market.mashape.com/)
+- [Une autre base de données d'APIs](https://apis.guru/)
 
 ## Bases de données
 
