@@ -15,6 +15,7 @@
 - [Sketch: l'outil de design d'app par excellence, mais alors plus pour faire des design aboutis](https://www.sketchapp.com/)
 - [Plein de modèles Sketch et Photoshop pour les apps et les icônes](https://applypixels.com/)
 - [Fichier Photoshop pour dessiner des interfaces](http://www.teehanlax.com/tools/iphone/)
+- [Une liste de 10 outils de prototypage et de wireframing](http://www.mockplus.com/blog/post/the-10-best-wireframing-and-prototyping-tools-for-designers)
 
 ## Ressources de développement
 
@@ -33,6 +34,7 @@
 - [Songkick: pour charger des listes de concerts](http://www.songkick.com/developer)
 - [Discogs: pour des disques et de la musique](https://www.discogs.com/developers/)
 - [Pour des films](http://www.omdbapi.com/)
+- [Une gigantesque base de données d'APIs](https://market.mashape.com/)
 
 ## Bases de données
 
@@ -40,7 +42,7 @@
 - [Firebase: une base de données synchronisée et plein de choses autour, maintenue par Google](http://firebase.google.com)
 - [Sequel Pro: un client pour les bases de données MySQL](https://www.sequelpro.com/)
 - [DB Browser for SQLite: un client pour les bases de données SQLite (Core Data, etc.)](http://sqlitebrowser.org/)
-- [Preload a Core Data database from a CSV file](https://www.appcoda.com/core-data-preload-sqlite-database/)
+- [Preload a Core Data database from a CSV file](https://www.appcoda.com/core-data-preload-sqlite-database/git)
 
 ## SDKs
 
