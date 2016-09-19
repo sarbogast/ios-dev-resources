@@ -25,6 +25,7 @@
 - [CocoaPods: pour gérer vos dépendances sur des librairies tierces](http://www.cocoapods.org)
 - [Lorempixel: pour générer des images placeholders](http://lorempixel.com/)
 - [Pour lire des QRCodes](https://github.com/yannickl/QRCodeReader.swift)
+- [Pour synchroniser une API avec un stockage local Core Data, comme RESTKit mais en Swift](https://github.com/hyperoslo/Sync)
 
 
 ## APIs publiques
