@@ -36,6 +36,7 @@
 - [Pour des films](http://www.omdbapi.com/)
 - [Une gigantesque base de données d'APIs](https://market.mashape.com/)
 - [Une autre base de données d'APIs](https://apis.guru/)
+- [Si vous voulez transformer des données Excel en JSON pour servir une API statique](https://shancarter.github.io/mr-data-converter/)
 
 ## Bases de données
 
