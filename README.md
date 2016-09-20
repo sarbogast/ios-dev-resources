@@ -38,6 +38,7 @@
 - [Une gigantesque base de données d'APIs](https://market.mashape.com/)
 - [Une autre base de données d'APIs](https://apis.guru/)
 - [Si vous voulez transformer des données Excel en JSON pour servir une API statique](https://shancarter.github.io/mr-data-converter/)
+- [Une API pour calculer des itinéraires et des distances réelles](https://developers.google.com/maps/documentation/directions/?hl=fr)
 
 ## Bases de données
 
