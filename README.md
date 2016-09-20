@@ -47,6 +47,7 @@
 - [Sequel Pro: un client pour les bases de données MySQL](https://www.sequelpro.com/)
 - [DB Browser for SQLite: un client pour les bases de données SQLite (Core Data, etc.)](http://sqlitebrowser.org/)
 - [Preload a Core Data database from a CSV file](https://www.appcoda.com/core-data-preload-sqlite-database/git)
+- [DataStack: a library to make it easier to initlize and use a Core Data stack](https://github.com/3lvis/DATAStack)
 
 ## SDKs
 
